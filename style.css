@@ -1,0 +1,228 @@
+
+#navbartoggler{
+    border: none;
+}
+.nav-link{
+    font-size: 80%;
+}
+.first{
+    background-image: url(images/first.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 90vh;
+
+}
+.first1{
+    text-decoration: none;
+    text-align: center;
+}
+.first2{
+    color: white;
+    font-size: 400%;
+    padding-top: 5%;
+}
+.first3{
+    color: white;
+}
+.first4{
+    text-decoration: none;
+    text-align: center;
+    padding-left: 43%;
+    padding-right: 3%;
+}
+.first5{
+    text-decoration: none;
+    text-align: center;
+    
+}
+.second{
+    background-image: url(images/second.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 90vh;
+}
+.second2{
+    color: black;
+    font-size: 400%;
+    padding-top: 5%;
+}
+.second3{
+    color: black;
+}
+.third{
+    background-image: url(images/third.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 90vh;
+}
+.third2{
+    text-align: center;
+    padding-top: 30% ;
+}
+.third3{
+    text-align: center;
+    color: black;
+}
+.display{
+    display: flex;
+}
+.display1{
+    width: 50%;
+    padding: 1%;
+}
+.display2{
+    width: 50%;
+    padding: 1%;
+}
+.fourth{
+    background-image: url(images/fourth.jpg);
+    background-size: inherit;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80vh;
+}
+.fourth3{
+    color: white;
+    font-size: 125%;
+}
+.fifth{
+    background-image: url(images/fifth.jpg);
+    background-size: inherit;
+    background-repeat: no-repeat;
+    background-position: center;   
+    height: 80vh;
+}
+.fifth2{
+    color: black;
+    font-size: 250%;
+    padding-top: 5%;
+}
+.fifth3{
+    color: black;
+    font-size: 125%;
+}
+.sixth{
+    background-image: url(images/sixth.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+    height: 80vh;
+}
+.seventh{
+    background-image: url(images/seventh.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+    height: 80vh;
+}
+.seventh2{
+    color: white;
+    font-size: 250%;
+    padding-top: 5%;
+}
+.eighth{
+    background-image: url(images/eight.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+    height: 80vh;
+}
+.ninth{
+    background-image: url(images/ninth.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;   
+    height: 80vh;
+}
+.carouselExampleDark{
+    height: 80vh!important;
+}
+.carouselancor{
+    text-decoration: none;
+    color: black;
+    border: 2px solid white;
+    background-color: white;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 125%;
+}
+.carouselpara{
+    color: white;
+    font-size: 125%;
+}
+#imagecaro{
+    position: relative;   
+}
+.tenth{
+    background-color: #f7f3f3ce;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.tenth1{
+    padding-left: 13%;
+    padding-right: 13%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.tenth2{
+    font-size: 75%;
+    color: rgb(122, 121, 121);
+}
+.main-footer{
+    padding-left: 9%;
+    padding-right: 9%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    display: flex;
+    justify-content: space-around;
+}
+.footer1{
+    text-decoration: none;
+    color: rgb(122, 121, 121);
+    font-size: 75%;
+}
+.footer1:hover{
+    text-decoration: underline;
+}
+.footer ul{
+    list-style: none;
+}
+.footer2{
+    text-decoration: underline;
+}
+.tenth3{
+    font-size: 80%;
+    color: rgb(122, 121, 121);
+}
+.footer3{
+    text-decoration: none;
+    color: rgb(122, 121, 121);
+}
+.footer3:hover{
+    text-decoration: underline;
+}
+.footer4{
+    text-decoration: none;
+    color: rgb(122, 121, 121);
+    padding-left: 26%;
+    font-size: 110%;
+    text-align: end;
+}
+.footer4:hover{
+    text-decoration: underline;
+}
+.footer5{
+    font-size: 75%;
+}
+/* .eight{
+    width: 50%;
+}
+.nine{
+    width: 50%;
+} */
